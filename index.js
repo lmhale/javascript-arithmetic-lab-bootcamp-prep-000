@@ -26,4 +26,4 @@ function makeInt(n){
   return n;
 }
 
-makeInt(10);
+console.log(makeInt(10);
