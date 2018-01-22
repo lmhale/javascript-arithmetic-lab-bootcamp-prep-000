@@ -25,3 +25,5 @@ function dec(n){
 function makeInt(n){
   return n;
 }
+
+makeInt(10);
